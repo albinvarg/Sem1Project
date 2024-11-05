@@ -1,6 +1,6 @@
 ﻿# Team7Project
 
-# Database Details
+## Database Details
 -------------------------------------------
 Your Database Credentials are Listed Below
 -------------------------------------------
